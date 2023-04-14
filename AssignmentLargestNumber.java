@@ -1,5 +1,3 @@
-package WorkAssignment;
-
 public class AssignmentLargestNumber {
 
 	public static void main(String[] args) {
